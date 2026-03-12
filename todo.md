@@ -1,7 +1,9 @@
 TO-DO:
 - set this site up sommore
   - ~~integrate Google Forms (input)~~
+    - switch to non-Google forms if possible
   - ~~integrate Google Sheets (output)~~
+    - switch to non-Google sheets if possible
   - change to a custom domain name if possible
     - this will indeed most likely cost money & require like DNS shenanigans but we'll figure that out
     - ALSO custom domain probably means actually deciding FOR REAL what the name of this association/organization should be
@@ -21,7 +23,9 @@ TO-DO:
     - embeds are nice & cool but they take up more space than just line after line of hyperlinks but also the latter sounds daunting
   - make sure to not use Google Forms for sensitive info tho; folks can apparently perhaps get into full Google Sheet from just embedded data view; already not collecting emails unless freely given but like yknow
 - define Tenets
-- define "Board of Directors" i.e. founding staff/members of IBV
+- define "Board of Directors" i.e. founding staff/members of IFR
 - look into [this advice](https://www.oflaherty-law.com/learn-about-law/how-do-i-register-a-non-profit-organization-in-iowa) for registering a non-profit org
 - find more things to put on this to-do list
 - stay fully transparent
+- complete name-change to Iowans for Representation (much more concise) ACRONYM: IFR
+- add Banner image for embeds/previews ([template](https://github.com/CharNelson/Iowans-for-Better-Voting/settings/og-template))
