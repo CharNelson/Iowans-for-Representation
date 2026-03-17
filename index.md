@@ -1,13 +1,5 @@
 ---
 layout: default
-@media (prefers-color-scheme: dark) {
-	html {
-		--light-text-color: rgb(199, 199, 204);
-  		--link-color: rgb( 100, 210, 255);
-  		--main-background-color: rgb(28, 28, 30);
-  		--main-text-color: rgb(229, 229, 234);
-	}
-}
 ---
 
 
