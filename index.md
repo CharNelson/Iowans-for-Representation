@@ -4,7 +4,7 @@ layout: default
 
 # Iowans for Representation
 
-<u><strong>The government is not representing us.<strong/><u/>
+<u><strong>The government is simply not representing us.<strong/><u/>
 
 ...and RANK CHOICE VOTING could help change that!
 
@@ -34,10 +34,10 @@ Lets shift the Overton Window with
    - Since Kim Reynolds ain't running for re-election, we'll have even more of a chance of electing a governor who'll actually be in favor of the people & let HF954 be repealed!
    - [Rob Sand](https://robsand.com/) (the current State Auditor, and only currently-elected Democrat in the state) seems to be not even just the best choice we've got, but a good one!
    - Right now, we can [petition to secure Rob Sand's place on the ballot](https://robsand.com/petition/),
-   - and make sure to vote in the gubernatorial primaries JUNE 2ND 2026!
-   - and in the actual gubernatorial election NOVEMBER 3RD 2026 of course!
+   - and make sure to vote in the gubernatorial primaries __JUNE 2ND 2026!__
+   - and in the actual gubernatorial election __NOVEMBER 3RD 2026__ of course!
 - Iowa Congress
-   - What we'll also need is the support of the Iowa state legislators, whom you can find [here](https://www.legis.iowa.gov/legislators/find) by simply typing in your zip code.
+   - We'll also need the support of Iowa state legislators, whom you can find [here](https://www.legis.iowa.gov/legislators/find) by simply typing in your zip code.
 
 #### ALSO ON THE DOCKET: GET MORE MEMBERS!
 
