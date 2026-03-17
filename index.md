@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Iowans for Better Voting
+# Iowans for Representation
 
 <u><strong>The government is not representing us.<strong/><u/>
 
@@ -19,7 +19,7 @@ Lets shift the Overton Window with
 - better Parties
 - better Candidates
 - better Candidate Info
-- i.e... **BETTER VOTING!**
+- i.e... **BETTER REPRESENTATION!**
 
 &nbsp;
 
