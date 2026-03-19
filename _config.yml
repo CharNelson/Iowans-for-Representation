@@ -1,8 +1,7 @@
 title: Iowans for Representation
 description: It's What We Deserve.
 show_downloads: false
-max_width: 1200px
-google_analytics: true
+max_width: 100px
 remote_theme: pages-themes/time-machine@v0.2.0
 plugins:
 - jekyll-remote-theme
