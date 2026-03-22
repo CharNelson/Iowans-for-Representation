@@ -24,8 +24,12 @@ TO-DO:
   - make sure to not use Google Forms for sensitive info tho; folks can apparently perhaps get into full Google Sheet from just embedded data view; already not collecting emails unless freely given but like yknow
 - define Tenets
 - define "Board of Directors" i.e. founding staff/members of IFR
+  
 - look into [this advice](https://www.oflaherty-law.com/learn-about-law/how-do-i-register-a-non-profit-organization-in-iowa) for registering a non-profit org
 - find more things to put on this to-do list
 - stay fully transparent
 - complete name-change to Iowans for Representation (much more concise) ACRONYM: IFR
 - add Banner image for embeds/previews ([template](https://github.com/CharNelson/Iowans-for-Better-Voting/settings/og-template))
+
+- [Ranked Choice Voting Resource Center ― Iowa State Assessment](https://www.rcvresources.org/iowa-state-assessment)
+- [HSB 183](https://www.legis.iowa.gov/legislation/BillBook?ga=90&ba=HSB%20183)
