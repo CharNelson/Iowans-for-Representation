@@ -28,6 +28,7 @@ Lets shift the Overton Window with
 
 - [House File 954](https://www.legis.iowa.gov/legislation/BillBook?ga=91&ba=HF%20954)
    - HF954 pre-emptively and EXPLICITLY bans Ranked Choice Voting by name
+     - it also raises the required vote percentage for a new political party to be established from two percent to TEN percent, making it *that* much harder to fix polarization through a multi-party system
    - signed into law by Governor Kim Reynolds in June 2025, now in effect as of January 1st 2026
 - Iowa Governor
    - Since Kim Reynolds ain't running for re-election, we'll have even more of a chance of electing a governor who'll actually be in favor of the people & let HF954 be repealed!
