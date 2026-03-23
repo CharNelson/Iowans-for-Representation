@@ -30,6 +30,11 @@ Lets shift the Overton Window with
    - HF954 pre-emptively and EXPLICITLY bans Ranked Choice Voting by name
      - it also raises the required vote percentage for a new political party to be established from two percent to TEN percent, making it *that* much harder to fix polarization through a multi-party system
    - signed into law by Governor Kim Reynolds in June 2025, now in effect as of January 1st 2026
+
+([External Link to Petition](https://airtable.com/appV3mMyEZthOxKxx/pagIaOAtKsQVxTfdW/form))
+<iframe class="airtable-embed" src="https://airtable.com/embed/appV3mMyEZthOxKxx/pagIaOAtKsQVxTfdW/form" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+
+#### Who We'll Need:
 - Iowa Governor
    - Since Kim Reynolds ain't running for re-election, we'll have even more of a chance of electing a governor who'll actually be in favor of the people & let HF954 be repealed!
    - [Rob Sand](https://robsand.com/) (the current State Auditor, and only currently-elected Democrat in the state) seems to be not even just the best choice we've got, but a good one!
