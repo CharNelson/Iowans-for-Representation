@@ -1,9 +1,10 @@
 ---
 ---
 
+@import "{{ site.theme }}";
+
+/* override width to something more sensible */
 .wrapper {
   width: 1000px;
   margin: 0 auto;
 }
-
-@import "{{ site.theme }}";
