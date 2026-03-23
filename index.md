@@ -8,12 +8,9 @@ layout: default
 
 <u><strong>The government is simply not representing us.<strong/><u/>
 
-...and RANK CHOICE VOTING could help change that!
+...and RANKED CHOICE VOTING could help change that!
 
 &nbsp;
-
-**This association exists to help our collective views directly affect our local leaders!**
-
 
 Lets shift the Overton Window with
 - better Voting Systems
@@ -30,8 +27,8 @@ Lets shift the Overton Window with
 ## FIRST ON THE DOCKET: REPEAL HOUSE FILE 954!
 
 - [House File 954](https://www.legis.iowa.gov/legislation/BillBook?ga=91&ba=HF%20954)
-   - HF954 pre-emptively and EXPLICITLY bans Rank Choice Voting by name
-   - signed into law by Governor Kim Reynolds in June 2025.
+   - HF954 pre-emptively and EXPLICITLY bans Ranked Choice Voting by name
+   - signed into law by Governor Kim Reynolds in June 2025, now in effect as of January 1st 2026
 - Iowa Governor
    - Since Kim Reynolds ain't running for re-election, we'll have even more of a chance of electing a governor who'll actually be in favor of the people & let HF954 be repealed!
    - [Rob Sand](https://robsand.com/) (the current State Auditor, and only currently-elected Democrat in the state) seems to be not even just the best choice we've got, but a good one!
@@ -40,6 +37,12 @@ Lets shift the Overton Window with
    - and in the actual gubernatorial election __NOVEMBER 3RD 2026__ of course!
 - Iowa Congress
    - We'll also need the support of Iowa state legislators, whom you can find [here](https://www.legis.iowa.gov/legislators/find) by simply typing in your zip code.
+
+## SECOND ON THE DOCKET: RE-INTRODUCE HOUSE STUDY BILL 183!
+
+- [House Study Bill 183](https://www.legis.iowa.gov/legislation/BillBook?ga=90&ba=HSB%20183), originally introduced in February of 2023, sought to directly allow Ranked Choice Voting in city elections, if each/any city were to wish to do so
+- This bill was stopped in subcomittee when first introduced, but could be revived & passed to create the opportunity for local implementation of Ranked Choice Voting
+- When pushing for 183, we could focus on convincing members of the House & Senate committees on State Government and on Local Government ([IA Congress Committee List](https://www.legis.iowa.gov/committees))  
 
 #### ALSO ON THE DOCKET: GET MORE MEMBERS!
 
