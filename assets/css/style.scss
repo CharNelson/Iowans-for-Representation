@@ -3,8 +3,8 @@
 
 @import "{{ site.theme }}";
 
-/* override width to something more sensible */
+/* override width to something more sensible than 675px */
 .wrapper {
-  width: 1000px;
+  width: 800px;
   margin: 0 auto;
 }
