@@ -2,14 +2,8 @@
 ---
 
 .wrapper {
-  width: 1675px;
+  width: 1000px;
   margin: 0 auto;
 }
 
 @import "{{ site.theme }}";
-
-
-.wrapper {
-  width: 1675px;
-  margin: 0 auto;
-}
