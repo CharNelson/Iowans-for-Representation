@@ -33,3 +33,4 @@ TO-DO:
 
 - [Ranked Choice Voting Resource Center ― Iowa State Assessment](https://www.rcvresources.org/iowa-state-assessment)
 - [HSB 183](https://www.legis.iowa.gov/legislation/BillBook?ga=90&ba=HSB%20183)
+- [data from FairVote on RCV](https://fairvote.org/resources/data-on-rcv/?section=current-snapshot-of-rcv-use-in-the-united-states)
